@@ -164,15 +164,12 @@ Without using Prowlarr you’d need to manually setup your trackers and indexers
 
 ## Download Clients
 
-I highly recommend using a VPN for downloading things. Especially when using peer-to-peer downloaders. Using a VPN will keep your public IP address hidden. I have tried a few VPN services and so far my favorite is [AirVPN](https://airvpn.org/?referred_by=673908), they're not a sponsor, but that is a affiliate link.
-
-[![](https://github.com/TechHutTV/homelab/blob/main/apps/images/airvpn.png)](https://airvpn.org/?referred_by=673908)
 
 ### qBittorrent
 
 ![](https://github.com/TechHutTV/homelab/blob/main/apps/images/16_qbittorrent-peer-client.png)
 
-This is a web version of the popular qBittorrent peer-to-peer file sharing client. Overall its clean, simple, and has a fair bit of features. Works well with AirVPN (my favorite VPN service) and integrates well with various \*arr applications.
+This is a web version of the popular qBittorrent peer-to-peer file sharing client. Overall its clean, simple, and has a fair bit of features. It integrates well with various \*arr applications.
 
 **Resources:** [Github](https://github.com/qbittorrent/qBittorrent) | [Website](https://www.qbittorrent.org/)
 

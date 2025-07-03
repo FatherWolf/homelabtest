@@ -41,7 +41,6 @@ This NUC has a base install of Ubuntu 24.04 with docker. This machine is dedicat
 ### Networking
 #### Omada Short Stack
 * [TP-Link Omada Hardware Controller](https://amzn.to/48vW6H1)
-* [TP-Link Omada Multi-Gigabit VPN Router](https://amzn.to/4hmvgoD)
 * [TP-Link Jetstream 8 Port Gigabit Smart Managed PoE Switch](https://amzn.to/4hxKqI2)
 
 #### Other
